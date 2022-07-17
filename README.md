@@ -10,7 +10,8 @@
 - 📚 I’m currently studying at [Le Reacteur](https://github.com/lereacteur).
 - 📫 How to reach me: vaillant.maxence@gmail.com
 
-🛠  Tech Stack:
+
+## 🛠  Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -19,8 +20,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<img align="center" src="https://img.shields.io/badge/size/github/directory-file-count/:user/:repo" alt="profil"/>
 
 
 ## Contact
