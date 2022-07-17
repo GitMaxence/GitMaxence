@@ -2,11 +2,9 @@
 <img align="right" height="490em" src="https://github.com/GitMaxence/GitMaxence/blob/main/git-card.png?raw=true"/>
 </a>
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Maxence VAILLANT</h1>
-
-
-- 🌱 Web development student.<br>
    <img align="center" src="https://img.shields.io/badge/-Utilitarian designer-0050FF?style=social&logo=WhiteSource&logoColor=black" alt="profil"/>
 
+- 🌱 Web development student.<br>
 - 📚 I’m currently studying at [Le Reacteur](https://github.com/lereacteur).
 - 📫 How to reach me: vaillant.maxence@gmail.com
 
