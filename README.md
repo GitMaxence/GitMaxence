@@ -7,9 +7,9 @@ Hello world :)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Maxence VAILLANT
    <img align="center" src="https://img.shields.io/badge/-Utilitarian designer-0050FF?style=social&logo=WhiteSource&logoColor=black" alt="profil"/></h1>
 
-- 🌱 Web development student.<br>
-- 📚 I’m currently studying at [Le Reacteur](https://github.com/lereacteur).
-- 📫 How to reach me: vaillant.maxence@gmail.com
+- [x] 🌱 Web development student.<br>
+- [x] 📚 I’m currently studying at [Le Reacteur](https://github.com/lereacteur).
+- [ ] 📫 How to reach me: vaillant.maxence@gmail.com
 
 
 ## 💬 LANGUAGES <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
@@ -66,6 +66,7 @@ Hello world :)
 ## ☕ You can help me with coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maxencevaillant) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maxencevaillant) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maxencevaillant) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxencevaillant) 
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!--
 **GitMaxence/GitMaxence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
