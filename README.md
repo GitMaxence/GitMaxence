@@ -44,7 +44,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GitMaxence&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mrvaillant&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## ✍️ Random Dev Quote
