@@ -1,3 +1,6 @@
+```sh
+Hello world :)
+```
 <a href="https://www.maxencevaillant.fr/" target="_blank">
 <img align="right" height="490em" src="https://github.com/GitMaxence/GitMaxence/blob/main/git-card.png?raw=true"/>
 </a>
@@ -20,6 +23,8 @@
 
 ## 💻  TECH STACK ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+<details><summary><b>  👀 Show all stacks </b></summary>
+
 #### > Language ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 
 #### > Hosting/Saas ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat&logo=Mailgun&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=GoogleCloud&logoColor=white)
@@ -33,6 +38,9 @@
 #### > Collaborative ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
 #### > LowCode ![Wix](https://img.shields.io/badge/-Velo_by_WiX-0C6EFC?style=flat&logo=Wix&logoColor=black)
+
+</details>
+
 
 ## 📊 STATS
 
@@ -55,7 +63,7 @@
 <img align="center" src="https://random-memer.herokuapp.com/" width="250px"/>
 
 
-## 💰 You can help me by Donating
+## ☕ You can help me with coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maxencevaillant) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maxencevaillant) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maxencevaillant) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxencevaillant) 
 
 
