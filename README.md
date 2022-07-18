@@ -46,25 +46,26 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvaillant&show_icons=true&locale=en&layout=compact" alt="mrvaillant" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaillant&show_icons=true&locale=en" alt="mrvaillant" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvaillant&" alt="mrvaillant" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaillant&show_icons=true&locale=en" alt="mrvaillant" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvaillant&" alt="mrvaillant" /></p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrvaillant&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mrvaillant&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="mrvaillant" /></p>
 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="mrvaillant" /></p>
 
 
 ## 😂 Random Dev Meme
-<img align="center" src="https://random-memer.herokuapp.com/" width="250px"/>
+
+<p align="center"><img align="center" src="https://random-memer.herokuapp.com/" width="300px" /></p>
 
 
 ## ☕ You can help me with coffee
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maxencevaillant) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maxencevaillant) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maxencevaillant) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxencevaillant) 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maxencevaillant) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maxencevaillant) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maxencevaillant) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maxencevaillant)
 
 <p align="right"><a href="#top">> Back to top</a></p>
 
