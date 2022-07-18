@@ -36,11 +36,11 @@
 
 ## 📊 STATS
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmaxence&show_icons=true&locale=en&layout=compact" alt="gitmaxence" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvaillant&show_icons=true&locale=en&layout=compact" alt="mrvaillant" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitmaxence&show_icons=true&locale=en" alt="gitmaxence" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaillant&show_icons=true&locale=en" alt="mrvaillant" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitmaxence&" alt="gitmaxence" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvaillant&" alt="mrvaillant" /></p>
 
 
 ## 🏆 GitHub Trophies
