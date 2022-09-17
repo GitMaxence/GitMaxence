@@ -16,7 +16,7 @@
 
 
 ## 👨‍💻 PORTFOLIO
-[![Dev](https://img.shields.io/badge/-mrvaillant.tech-272B36?style=flat&labelColor=E6DACE&logo=Pinboard&logoColor=0050FF)](https://www.mrvaillant.tech)
+[![Dev](https://img.shields.io/badge/-mrvaillant.tech-272B36?style=flat&labelColor=E7758B&logo=Web&logoColor=9567C6)](https://www.mrvaillant.tech)
 [![Portfolio](https://img.shields.io/badge/-maxencevaillant.fr-0050FF?style=flat&labelColor=E6DACE&logo=Pinboard&logoColor=0050FF)](https://www.maxencevaillant.fr) [![NewWebCreation](https://img.shields.io/badge/-New__Web__Création.fr-001246?style=flat&labelColor=FB5604&logo=Wix&logoColor=white)](https://www.newwebcreation.fr)
 
 
