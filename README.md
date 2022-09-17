@@ -15,8 +15,7 @@
 ## 💬 LANGUAGES <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
 
 
-## 👨‍💻 PORTFOLIO
-[![Dev](https://img.shields.io/badge/-mrvaillant.tech-272B36?style=flat&labelColor=E7758B&logo=github&logoColor=272B36)](https://www.mrvaillant.tech)
+## 👨‍💻 PORTFOLIO [![Dev](https://img.shields.io/badge/-mrvaillant.tech-272B36?style=flat&labelColor=E7758B&logo=github&logoColor=272B36)](https://www.mrvaillant.tech)
 [![Portfolio](https://img.shields.io/badge/-maxencevaillant.fr-0050FF?style=flat&labelColor=E6DACE&logo=Pinboard&logoColor=0050FF)](https://www.maxencevaillant.fr) [![NewWebCreation](https://img.shields.io/badge/-New__Web__Création.fr-001246?style=flat&labelColor=FB5604&logo=Wix&logoColor=white)](https://www.newwebcreation.fr)
 
 
