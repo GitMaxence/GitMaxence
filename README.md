@@ -30,7 +30,11 @@
 ![Npm](https://img.shields.io/badge/Npm-F54A2A?style=flat&logo=npm&logoColor=white) 
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-F54A2A?style=flat&logo=reactrouter&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-F54A2A?style=flat&logo=markdown&logoColor=white) 
-![Saas](https://img.shields.io/badge/Saas-F54A2A?style=flat&logo=saas&logoColor=white) 
+![Saas](https://img.shields.io/badge/Saas-F54A2A?style=flat&logo=saas&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-F54A2A?style=flat&logo=storybook&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-F54A2A?style=flat&logo=redux&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-F54A2A?style=flat&logo=jest&logoColor=white) 
+![Zustand](https://img.shields.io/badge/Zustand-F54A2A?style=flat&logo=zustand&logoColor=white) 
 
 #### > Language ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 
