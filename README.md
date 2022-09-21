@@ -26,22 +26,12 @@
 
 <details><summary><b>  👀 Show all stacks </b></summary>
 
-[![Expo](https://img.shields.io/badge/Expo-25292E?style=flat&logo=expo&logoColor=white)](https://docs.expo.dev/)
-[![Npm](https://img.shields.io/badge/Npm-333333?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-369FE7?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Saas](https://img.shields.io/badge/Saas-CF649A?style=flat&logo=saas&logoColor=white)](https://sass-lang.com/documentation/)
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
-[![Redux](https://img.shields.io/badge/Redux-764ABB?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Zustand](https://img.shields.io/badge/Zustand-2657BD?style=flat&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)
-   
-[![ReactRouter](https://img.shields.io/badge/ReactRouter-F44250?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
-[![ReactNavigation](https://img.shields.io/badge/ReactNavigation-8B75C9?style=flat&logo=reactnavigation&logoColor=white)](https://reactnavigation.org/)
-
 #### > Language
    [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
    [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/fr/docs/Glossary/HTML5)
    [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
    [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+   [![Markdown](https://img.shields.io/badge/Markdown-369FE7?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
    [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/documentation/swift)
 
 #### > Hosting/Saas
@@ -52,12 +42,21 @@
 
 #### > Frameworks, Plateforms & Libraries
    [![NodeJS](https://img.shields.io/badge/node.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/) 
+   [![React](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://fr.reactjs.org/)
    [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
    [![Express.js](https://img.shields.io/badge/Express.JS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
    [![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-   [![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/) 
    [![JestJs](https://img.shields.io/badge/-JestJs-05122A?style=flat&logo=Jest&logoColor=red)](https://jestjs.io/docs/getting-started)
+   [![Npm](https://img.shields.io/badge/Npm-333333?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+   [![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/) 
    [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
+   [![Expo](https://img.shields.io/badge/Expo-25292E?style=flat&logo=expo&logoColor=white)](https://docs.expo.dev/)
+[![Saas](https://img.shields.io/badge/Saas-CF649A?style=flat&logo=saas&logoColor=white)](https://sass-lang.com/documentation/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
+[![Redux](https://img.shields.io/badge/Redux-764ABB?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-2657BD?style=flat&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)
+[![ReactRouter](https://img.shields.io/badge/ReactRouter-F44250?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+[![ReactNavigation](https://img.shields.io/badge/ReactNavigation-8B75C9?style=flat&logo=reactnavigation&logoColor=white)](https://reactnavigation.org/)
 
 #### > Databases
    [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
