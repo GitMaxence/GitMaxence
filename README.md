@@ -26,6 +26,12 @@
 
 <details><summary><b>  👀 Show all stacks </b></summary>
 
+[Expo](https://img.shields.io/badge/Expo-F54A2A?style=flat&logo=expo&logoColor=white) 
+[Npm](https://img.shields.io/badge/Npm-F54A2A?style=flat&logo=npm&logoColor=white) 
+[ReactRouter](https://img.shields.io/badge/ReactRouter-F54A2A?style=flat&logo=reactrouter&logoColor=white) 
+[Markdown](https://img.shields.io/badge/Markdown-F54A2A?style=flat&logo=markdown&logoColor=white) 
+[Saas](https://img.shields.io/badge/Saas-F54A2A?style=flat&logo=saas&logoColor=white) 
+
 #### > Language ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 
 #### > Hosting/Saas ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat&logo=Mailgun&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=GoogleCloud&logoColor=white)
