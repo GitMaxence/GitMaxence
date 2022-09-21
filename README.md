@@ -22,20 +22,20 @@
 ## 🌐 SOCIAL  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/MrVaillant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?logo=linkedin&labelColor=0A66C2&logoColor=white)](https://linkedin.com/in/maxence-vaillant)  [![Discord](https://img.shields.io/badge/Discord-05122A?logo=discord&labelColor=5865F2&logoColor=white)](https://discord.com/channels/@VAILLANTMaxence#2056) [![Instagram](https://img.shields.io/badge/Instagram-05122A?logo=Instagram&labelColor=E4405F&logoColor=white)](https://instagram.com/maxencevaillant) [![Facebook](https://img.shields.io/badge/Facebook-05122A?logo=Facebook&labelColor=1877F2&logoColor=white)](https://facebook.com/maxence.vaillant)
 
 
-## 💻  TECH STACK  [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://fr.reactjs.org/) &nbsp; [![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp; [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)&nbsp; [![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/fr/docs/Glossary/HTML5)&nbsp; [![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
+## 💻  TECH STACK  [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://fr.reactjs.org/)&nbsp;[![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)](https://reactnative.dev/)&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)&nbsp;[![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/fr/docs/Glossary/HTML5)&nbsp;[![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/en/docs/)&nbsp;
 
 <details><summary><b>  👀 Show all stacks </b></summary>
 
-[![Expo](https://img.shields.io/badge/Expo-F54A2A?style=flat&logo=expo&logoColor=white)](https://docs.expo.dev/)
-[![Npm](https://img.shields.io/badge/Npm-F54A2A?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-F54A2A?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Saas](https://img.shields.io/badge/Saas-F54A2A?style=flat&logo=saas&logoColor=white)](https://sass-lang.com/documentation/)
-[![Storybook](https://img.shields.io/badge/Storybook-F54A2A?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
+[![Expo](https://img.shields.io/badge/Expo-25292E?style=flat&logo=expo&logoColor=white)](https://docs.expo.dev/)
+[![Npm](https://img.shields.io/badge/Npm-333333?style=flat&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-369FE7?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Saas](https://img.shields.io/badge/Saas-CF649A?style=flat&logo=saas&logoColor=white)](https://sass-lang.com/documentation/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
 [![Redux](https://img.shields.io/badge/Redux-764ABB?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Zustand](https://img.shields.io/badge/Zustand-F54A2A?style=flat&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)
+[![Zustand](https://img.shields.io/badge/Zustand-2657BD?style=flat&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)
    
-[![ReactRouter](https://img.shields.io/badge/ReactRouter-F54A2A?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
-[![ReactNavigation](https://img.shields.io/badge/ReactNavigation-F54A2A?style=flat&logo=reactnavigation&logoColor=white)](https://reactnavigation.org/)
+[![ReactRouter](https://img.shields.io/badge/ReactRouter-F44250?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+[![ReactNavigation](https://img.shields.io/badge/ReactNavigation-8B75C9?style=flat&logo=reactnavigation&logoColor=white)](https://reactnavigation.org/)
 
 #### > Language
    [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
