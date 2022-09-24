@@ -71,6 +71,7 @@
    [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/fr-fr/help/guides/category/documentation)
    [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
    [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://api.slack.com/docs)
+   [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/developers/docs/intro)
 
 #### > LowCode
    [![Wix](https://img.shields.io/badge/-Velo_by_WiX-0C6EFC?style=flat&logo=Wix&logoColor=black)](https://www.wix.com/velo/reference/api-overview/introduction)
