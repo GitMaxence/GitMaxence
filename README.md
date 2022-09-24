@@ -63,7 +63,7 @@
 
 #### > Design & Prototype
    [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://help.figma.com/hc/en-us)
-   [![Marvel](https://img.shields.io/badge/Marvel-%1FB6FF?style=flat&logo=marvelapp&logoColor=white)](https://marvelapp.com/developers/documentation)
+   [![Marvel](https://img.shields.io/badge/Marvel-1FB6FF?style=flat&logo=marvelapp&logoColor=white)](https://marvelapp.com/developers/documentation)
    [![FontAwesome](https://img.shields.io/badge/FontAwesome-528DD7?style=flat&logo=FontAwesome&logoColor=white)](https://fontawesome.com/docs)
    [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=flat&logo=Unsplash&logoColor=white)](https://unsplash.com/documentation)
    [![Powerpoint](https://img.shields.io/badge/MS_Powerpoint-B7472A?style=flat&logo=MicrosoftPowerPoint&logoColor=white)](https://support.microsoft.com/fr-fr/powerpoint)
