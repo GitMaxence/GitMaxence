@@ -42,7 +42,7 @@
 
 #### > Frameworks, Plateforms & Libraries
    [![NodeJS](https://img.shields.io/badge/node.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/) 
-   [![React](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://fr.reactjs.org/)
+   [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://fr.reactjs.org/)
    [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
    [![Express.js](https://img.shields.io/badge/Express.JS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
    [![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/docs)
