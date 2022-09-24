@@ -40,6 +40,7 @@
    [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](https://devcenter.heroku.com/)
    [![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat&logo=Mailgun&logoColor=white)](https://documentation.mailgun.com/en/latest/)
    [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=GoogleCloud&logoColor=white)](https://cloudinary.com/documentation)
+   [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
 
 #### > Frameworks, Plateforms & Libraries
    [![NodeJS](https://img.shields.io/badge/node.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/) 
@@ -52,7 +53,6 @@
    [![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/) 
    [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
    [![Expo](https://img.shields.io/badge/Expo-25292E?style=flat&logo=expo&logoColor=white)](https://docs.expo.dev/)
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)](https://storybook.js.org/docs/react/writing-docs/introduction)
 [![Redux](https://img.shields.io/badge/Redux-764ABB?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Zustand](https://img.shields.io/badge/Zustand-2657BD?style=flat&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)
 [![ReactRouter](https://img.shields.io/badge/ReactRouter-F44250?style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
